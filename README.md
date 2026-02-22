@@ -17,8 +17,8 @@ Das MCL-System ist eine bahnbrechende Materialinnovation, die biologische Wachst
 * **Wärmemanagement:** Steigerung der Wärmestromdichte um den Faktor 170 gegenüber reiner Biomasse.
 
 ### 4. Dokumentationsstruktur
-- `/Technical_Dossier`: Wissenschaftliche Grundlagen und Formeln.
-- `/Simulations`: Datensätze zu mechanischen und thermischen Tests.
+- `/Technical_DossierDE`: Wissenschaftliche Grundlagen und Formeln.
+- `/SimulationDE`: Datensätze zu mechanischen und thermischen Tests.
 - `/Research_Protocol`: Anleitung zur Reproduzierbarkeit und Sicherheitsanalyse.
 
 ---
@@ -44,8 +44,8 @@ The MCL system is a pioneering material innovation that combines biological grow
 * **Thermal Management:** 170x increase in heat flux density compared to pure biomass.
 
 ### 4. Documentation Structure
-- `/Technical_Dossier`: Scientific foundations and equations.
-- `/Simulations`: Datasets for mechanical and thermal testing.
+- `/Technical_DossierEN`: Scientific foundations and equations.
+- `/SimulationEN`: Datasets for mechanical and thermal testing.
 - `/Research_Protocol`: Guide for reproducibility and safety analysis.
 
 ---
