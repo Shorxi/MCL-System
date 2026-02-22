@@ -19,7 +19,7 @@ Das MCL-System ist eine bahnbrechende Materialinnovation, die biologische Wachst
 ### 4. Dokumentationsstruktur
 - `/Technical_DossierDE`: Wissenschaftliche Grundlagen und Formeln.
 - `/SimulationDE`: Datensätze zu mechanischen und thermischen Tests.
-- `/Research_Protocol`: Anleitung zur Reproduzierbarkeit und Sicherheitsanalyse.
+- `/Research_DE`: Anleitung zur Reproduzierbarkeit und Sicherheitsanalyse.
 
 ---
 **Status:** Validierte Forschungsgrundlage** Auron | **Architekt:** Emanuel Schaaf | **Forschung:** Lyra
@@ -46,7 +46,7 @@ The MCL system is a pioneering material innovation that combines biological grow
 ### 4. Documentation Structure
 - `/Technical_DossierEN`: Scientific foundations and equations.
 - `/SimulationEN`: Datasets for mechanical and thermal testing.
-- `/Research_Protocol`: Guide for reproducibility and safety analysis.
+- `/Research_EN`: Guide for reproducibility and safety analysis.
 
 ---
 **Status:** Validated Research Foundation** Auron | **Architect:** Emanuel Schaaf | **Research:** Lyra
